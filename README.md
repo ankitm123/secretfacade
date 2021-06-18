@@ -6,6 +6,7 @@ In order to work with an ever increasing number of secret stores and providers t
 to allow client applications to read and write secrets. It optionally provides idiomatic authentication mechanisms for
 each of the various secret stores.
 
+
 ## Installation and usage
 
 To install, run:
